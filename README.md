@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Tosin
 - 👀 I’m interested in learning more about Web Development, Product design and Technical Writing. 
-- 🌱 I’m currently working on my product design and technical writing skills. 
 - 💞️ I’m looking to collaborate on anything product design, UI Design, Backend tech and IoT projects. 
 - 📫 You can reach out to me through my email - tosinadewale01@gmail.com 
 
